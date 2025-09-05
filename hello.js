@@ -1,0 +1,1 @@
+console.log("你好，欢迎来到trae学习");
